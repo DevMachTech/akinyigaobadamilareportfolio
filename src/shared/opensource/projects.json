@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDQyMDIzNzM=",
+      "name": "10th-place-solution-to-Zindi-Africa-Women-in-Data-Science-Competition",
+      "createdAt": "2020-03-01T18:31:57Z",
+      "url": "https://github.com/DevMachTech/10th-place-solution-to-Zindi-Africa-Women-in-Data-Science-Competition",
+      "description": "To build a predictive model that accurately estimates the % of households per ward that are female-headed and living below a particular income threshold by using data points that can be collected through other means without an intensive household survey like the census. This solution can potentially reduce the cost and improve the accuracy of monitoring key population indicators such as female household headship and income level in between census years.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyOTgxODY2MzA=",
+      "name": "DSN_Expresso_Churn_Hackathon",
+      "createdAt": "2020-09-24T06:19:31Z",
+      "url": "https://github.com/DevMachTech/DSN_Expresso_Churn_Hackathon",
+      "description": "Data science Nigeria Hackathons",
+      "isFork": true,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjk2MzUxMDg=",
+      "name": "Market-Basket-Analysis-in-python-live-training",
+      "createdAt": "2021-01-14T14:13:08Z",
+      "url": "https://github.com/DevMachTech/Market-Basket-Analysis-in-python-live-training",
+      "description": "Live Training: Market Basket Analysis in Python ",
+      "isFork": true,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMDQ0ODY1NzQ=",
+      "name": "Soft_Drinks_Brand_Detector",
+      "createdAt": "2020-10-16T01:20:07Z",
+      "url": "https://github.com/DevMachTech/Soft_Drinks_Brand_Detector",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNjg1MzQ1NDU=",
+      "name": "MySimpleFlaskAPP",
+      "createdAt": "2021-05-18T13:10:33Z",
+      "url": "https://github.com/DevMachTech/MySimpleFlaskAPP",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNTc0NjM1MTQ=",
+      "name": "AIBootcamp-2019",
+      "createdAt": "2020-04-21T02:53:22Z",
+      "url": "https://github.com/DevMachTech/AIBootcamp-2019",
+      "description": "AI bootcamp 2019 materials.",
+      "isFork": true,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    }
+  ]
+}
